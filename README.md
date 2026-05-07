@@ -30,6 +30,7 @@ Web developer focused on building useful, well-crafted websites and projects. I 
 ---
 
 ## Tech Stack
+<div align="center">
 
 **Languages**
 
@@ -53,17 +54,21 @@ Web developer focused on building useful, well-crafted websites and projects. I 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Flask API](https://img.shields.io/badge/Flask%20API-000000?style=flat-square&logo=flask&logoColor=white)
 
+</div>
+
 ---
 
 ## Projects
-
+<div align="center">
+  
 | Project | Description | Stack | Stars | Status |
 |---|---|---|---|---|
 | [VL.RAG](https://github.com/50RISHU/VL.RAG) | Vectorless RAG System for AI | React, Typrscript | ![Stars](https://img.shields.io/github/stars/50RISHU/VL.RAG?style=flat-square&color=555) | ![Status](https://img.shields.io/badge/active-4ade80?style=flat-square) |
 | [Stego.Image](https://github.com/50RISHU/Stego.Image) | Short Hide the information behind the image | React, JS | ![Stars](https://img.shields.io/github/stars/50RISHU/Stego.Image?style=flat-square&color=555) | ![Status](https://img.shields.io/badge/active-4ade80?style=flat-square) |
 | [E-Sport Management](https://github.com/50RISHU/E-Sport_Calc) | Manage Esport Efficiently | Svelte-Kit, Supabase | ![Stars](https://img.shields.io/github/stars/50RISHU/E-Sport_Calc?style=flat-square&color=555) | ![Status](https://img.shields.io/badge/active-4ade80?style=flat-square) |
 | [MDEditor](https://github.com/50RISHU/MDEditor) | Wrtie & Save Your Markdown Notes | React | ![Stars](https://img.shields.io/github/stars/50RISHU/MDEditor?style=flat-square&color=555) | ![Status](https://img.shields.io/badge/active-4ade80?style=flat-square) |
-
+  
+</div>
 
 ---
 
@@ -85,10 +90,15 @@ Web developer focused on building useful, well-crafted websites and projects. I 
 
 ## Contact
 
+<div align="center">
+  
 [![Portfolio](https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=safari&logoColor=white)](https://rsportfolio.pages.dev/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishu-s-30b929377)
 [![Email](https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white)](sheth.rishu50@gmail.com)
 
+</div>
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%" />
+  
 </div>
