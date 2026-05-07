@@ -57,8 +57,6 @@ Web developer focused on building useful, well-crafted websites and projects. I 
 
 ## Projects
 
-> Replace the rows below with your own projects. Stars update automatically in real time.
-
 | Project | Description | Stack | Stars | Status |
 |---|---|---|---|---|
 | [VL.RAG](https://github.com/50RISHU/VL.RAG) | Vectorless RAG System for AI | React, Typrscript | ![Stars](https://img.shields.io/github/stars/50RISHU/VL.RAG?style=flat-square&color=555) | ![Status](https://img.shields.io/badge/active-4ade80?style=flat-square) |
@@ -67,21 +65,19 @@ Web developer focused on building useful, well-crafted websites and projects. I 
 | [MDEditor](https://github.com/50RISHU/MDEditor) | Wrtie & Save Your Markdown Notes | React | ![Stars](https://img.shields.io/github/stars/50RISHU/MDEditor?style=flat-square&color=555) | ![Status](https://img.shields.io/badge/active-4ade80?style=flat-square) |
 
 
-**Status badges:** use `active-4ade80` for active, `wip-facc15` for in progress, `archived-555555` for archived.
-
 ---
 
 ## GitHub Stats
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=666666&text_color=888888&rank_icon=github&include_all_commits=true&count_private=true)
-&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&langs_count=6)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=50RISHU&theme=github_dark)
 
-![Streak](https://streak-stats.demolab.com?user=yourusername&theme=dark&hide_border=true&background=0d1117&ring=aaaaaa&fire=ffffff&currStreakLabel=ffffff&sideLabels=666666&dates=444444&currStreakNum=ffffff&sideNums=aaaaaa)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=50RISHU&theme=github_dark)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-compact&hide_border=true&bg_color=0d1117&color=888888&line=555555&point=aaaaaa)](https://github.com/yourusername)
+![Streak](https://streak-stats.demolab.com?user=50RISHU&theme=dark&hide_border=true&background=0d1117&ring=aaaaaa&fire=ffffff&currStreakLabel=ffffff&sideLabels=666666&dates=444444&currStreakNum=ffffff&sideNums=aaaaaa)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=50RISHU&theme=github-compact&hide_border=true&bg_color=0d1117&color=888888&line=555555&point=aaaaaa)](https://github.com/yourusername)
 
 </div>
 
