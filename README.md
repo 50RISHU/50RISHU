@@ -10,11 +10,9 @@
 
 ---
 
-## 👋 About Me
-
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-**💻 Developer passionate about Web Development, AI, and Open Source.**
+**💻 I am a Developer passionate about Web Development, AI, and Open Source.**
 
 - 🔹 **Building** projects that solve real-world problems.
 - 🔹 **Exploring** AI, Cloud, and Modern Web Technologies.
@@ -26,8 +24,6 @@
 <br clear="both">
 
 ---
-
-## 🛠️ Tech Stack
 
 <details open>
 <summary><b>Languages & Core</b></summary>
@@ -82,8 +78,6 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
-
 <div align="center">
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=50RISHU&theme=github_dark)
@@ -109,8 +103,6 @@
 </div>
 
 ---
-
-## 📫 Connect with Me
 
 <div align="center">
 
