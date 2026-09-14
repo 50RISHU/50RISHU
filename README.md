@@ -1,56 +1,42 @@
-<div align="center">
-<!-- Header Animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Rishu&fontSize=70&animation=fadeIn" />
+# Hi, I'm Rishu
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Engineer;AI+Developer;Open+Source+Builder;Full+Stack+Developer;Always+Learning+New+Things" />
+**Full-Stack Web Developer · AI/ML Enthusiast · Open-Source Builder**
 
-</div>
+I build modern, practical web applications and enjoy exploring new areas of software engineering.
 
 ---
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+## About Me
 
-**💻 I am a Developer passionate about Web Development, AI, and Open Source.**
+* Full-Stack Web Developer focused on building modern, practical, and user-focused web applications.
+* Interested in **Artificial Intelligence and Machine Learning**, especially their applications in real-world software.
+* Exploring **Cybersecurity** to better understand vulnerabilities and build safer, more secure tools.
+* Passionate about **Open Source** and enjoy building, experimenting with, and sharing software projects.
+* Believe in writing software that is **clean, secure, maintainable, and useful**.
+> I believe the best way to learn software engineering is to build, break, improve, and build again.
 
-- 🔹 **Building** projects that solve real-world problems.
-- 🔹 **Exploring** AI, Cloud, and Modern Web Technologies.
-- 🔹 **Learning** something new every day.
-- 🔹 **Sharing** projects and ideas with the developer community.
+---
 
-> *Always interested in creating useful, scalable, and impactful software.*
+## Tech Stack
 
-<br clear="both">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,react,svelte,bootstrap,tailwind,vite,flask,mysql,mongodb,supabase,git,github,vscode,npm" alt="Programming Languages" />
+</p>
 
-<details close>
-<summary><b>Languages & Tools (Click to Expand)</b></summary>
-  <br>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cpp,react,svelte,flask,bootstrap,tailwindcss,mysql,mongodb,supabase,vscode,git,github,devto" alt="Tech Stack Icons" />
-    </a>
-  </p>
-</details>
-<br>
+---
 
-<div>
-  <!-- Github States -->
-  <b>Contribution Summary</b>
-  <p> </p>
+## Connect With Me
 
-  ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=50RISHU&theme=github_dark)
-</div>
+I'm open to connecting with developers, researchers, and other people interested in **software development, AI, cybersecurity, and open source**.
 
-<br>
+**Email:** `sheth.rishu50@gmail.com`
 
-<div>
-  <!-- Developer Quote -->
-  <b>Developer Quote</b>
-  <p></p>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
-</div>
+**Dev.to:** [dev.to](https://dev.to/asyncinnovator)
 
-<div align="center">
-  <!-- Footer Animation -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</div>
+---
+
+> **"The best code isn't the code that works once — it's the code that remains understandable, secure, and maintainable when everything around it changes."**
+
+<p align="center">
+  <sub>Build with purpose. Learn continuously. Engineer responsibly.</sub>
+</p>
